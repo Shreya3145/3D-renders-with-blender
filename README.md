@@ -18,7 +18,7 @@ The repository includes:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/3D-renders-with-blenderz.git
+   git clone https://github.com/your-username/3D-renders-with-blender.git
    ```
 2. Open the .blend files with Blender (Version 3.x or higher recommended).
 3. Modify, render, or export the models as needed.
